@@ -1,0 +1,42 @@
+Glide version 91117 (mmshare version 54117)
+mmshare         3f51de5f41
+glide-src       6ab9bc76b5
+psp-src         eb99070e3c
+macromodel-src  9e7af5275d
+epik-src        742b4da294
+
+Copyright (c) Schrodinger, LLC.
+All Rights Reserved.
+
+--------------------------------------------------------------------------------
+JobId          : DESKTOP-S8P9C60-0-640d37e1
+Name           : glide-grid_2
+Program        : Glide
+Host           : DESKTOP-S8P9C60
+Dir            : C:\Users\yuying\Documents\Schrodinger\glide-grid_2
+HostEntry      : localhost
+JobHost        : DESKTOP-S8P9C60
+JobDir         : C:\Users\yuying\AppData\Local\Schrodinger\tmp\glide-grid_2
+JobSchrodinger : D:\Schrodinger 2021
+Commandline    : D:\Schrodinger 2021\glide.exe glide-grid_2.in -OVERWRITE -HOST localhost -PROJ C:\Users\yuying\AppData\Local\Schrodinger\tmp\Tmp_12Mar2023_1001_52367 -DISP ignore -VIEWNAME glide_gridgen_gui.GridGenPanel -TMPLAUNCHDIR
+StartTime      : 2023-03-12-10:24:34
+--------------------------------------------------------------------------------
+
+[running at reduced cpu priority]
+Calling OPLS_2005 atomtyping ...
+Finished parameter assignment
+ VdW radii of protein atoms scaled by    1.00000000000000     
+ Charge cutoff for polarity  0.250000000000000     
+  Receptor setup: (nsites, nx, ny, nz, bsize)=(         125 ,           25 , 
+          25 ,           25 ,    1.00000000000000      ).
+ Screening setup finished.
+ DOCKMAIN: getting receptor.
+  DOCKMAIN after grid: (nx, ny, nz) = (          64 ,           64 , 
+          64 ).
+Creating output grid archive 'glide-grid_2.zip'
+
+Exiting Glide
+Date: Sunday, March 12 2023, at 10:25:02 中国标准时间
+CPU time (s): 14.9 user, 1.8 system, 27.3 real
+Total elapsed time = 27 seconds
+[running at reduced cpu priority]
